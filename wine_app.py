@@ -40,7 +40,7 @@ X = wine.drop('quality', axis=1)
 
 st.sidebar.header('User Input Features')
 st.sidebar.markdown("""
-[Example CSV input file](https://raw.githubusercontent.com/dataprofessor/data/master/wine-example.csv)
+[Example CSV input file](https://github.com/AnandAvinash9/Wine_Quality_Prediction/blob/main/Augmented_Wine_Data.csv)
 """)
 st.sidebar.header("Model Information")
 st.sidebar.markdown("""
