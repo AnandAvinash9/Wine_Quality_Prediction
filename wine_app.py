@@ -204,6 +204,7 @@ st.pyplot(fig)
 # Footer
 st.markdown("""
 ---
+Avinash Anand
 Created with ❤️ using Streamlit | Wine Quality Prediction App
 """)
 # Run The App 
